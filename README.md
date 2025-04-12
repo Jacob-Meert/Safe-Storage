@@ -122,7 +122,3 @@ SafeStorage is a Python-based desktop application that allows users to securely 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-<div align="center">
-  <b>Made with ❤️ for secure data storage</b>
-</div>
